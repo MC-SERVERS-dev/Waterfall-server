@@ -3,6 +3,11 @@
 > We recommend you transition to [Velocity](https://papermc.io/software/velocity). For more information, see the [announcement](https://forums.papermc.io/threads/1088/).
 > Continue if you must. This is an optional choice.
 
+
+> [!CAUTION]
+> **These plugins are no longer supported, Do not use them for any personal intentional needs.**
+
+
 First, go to the top of the repo and click on code > codespaces > create codespace
 now you have your own free server instance to host eaglercraft. Next you need to run the setup commands:
 
